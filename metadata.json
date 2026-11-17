@@ -1,0 +1,6 @@
+{
+  "name": "MAEZO - Кафе & Жеткирүү",
+  "description": "MAEZO заманбап кафесинин онлайн менюсу, тамак заказ кылуу жана жеткирүү кызматы. Роллдор, пицца, рамен, том-ям жана азиялык даамдар.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
